@@ -1,4 +1,6 @@
-# This repository contains a machine learning model for predicting heart failure risk with an accuracy of 90%. By applying advanced techniques like SMOTE for imbalanced data, L1 regularization for feature selection, and a stacked classifier for performance enhancement, this model offers improved prediction accuracy and precision in identifying high-risk patients, supporting timely medical interventions.
+# Heart Failure Prediction Model
+
+This repository contains a machine learning model for predicting heart failure risk with an accuracy of 90%. By applying advanced techniques like SMOTE for imbalanced data, L1 regularization for feature selection, and a stacked classifier for performance enhancement, this model offers improved prediction accuracy and precision in identifying high-risk patients, supporting timely medical interventions.
 
 Key Features
 SMOTE for Imbalanced Data: Applied SMOTE to handle class imbalance and improve the prediction of high-risk cases.
